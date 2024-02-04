@@ -60,7 +60,8 @@
         "price":19.99,
         "imageURL":"https:\/\/seanallen-course-backend.herokuapp.com\/images\/appetizers\/jumbo-tater-tot.jpg",
         "id":9,
-        "description":"Scrumptious tots with a side of ranch.","name":"Jumbo Tater Tots"
+        "description":"Scrumptious tots with a side of ranch.",
+        "name":"Jumbo Tater Tots"
     },{
         "size":["6 oz","10 oz"],
         "price":19.99,
@@ -72,7 +73,8 @@
         "size":["6 oz","10 oz"],
         "price":19.99,
         "imageURL":"https:\/\/seanallen-course-backend.herokuapp.com\/images\/appetizers\/mozzarella-sticks.jpg",
-        "id":11,"description":"The best appetizer there is.\nDon't @ me.",
+        "id":11,
+        "description":"The best appetizer there is.\nDon't @ me.",
         "name":"Mozzarella Sticks"
     },{
         "size":["6 oz","10 oz"],
