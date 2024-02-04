@@ -2,7 +2,7 @@
     {
         "size":["6 oz","10 oz"],
         "price":19.99,
-        "imageURL":"https://raw.github.com/SerialHobbyAbandoner/CandleScentApp/blob/main/cinnamonDip.png",
+        "imageURL":"https://github.com/SerialHobbyAbandoner/CandleScentApp/blob/main/cinnamonDip.png",
         "id":1,
         "description":"The strong aroma of Cinnamon is complemented by top notes of Lemon, Bergamot, and Orange. Middle notes of Ripe Cranberry and Anise, with bottom notes of Cool Mint & Fresh Balsam finish off this potent blend.",
         "name":"Cinnamon Dip"
@@ -37,7 +37,7 @@
     },{
         "size":["6 oz","10 oz"],
         "price":19.99,
-        "imageURL":"https://raw.github.com/SerialHobbyAbandoner/CandleScentApp/blob/main/naughtyButNice.png",
+        "imageURL":"https://github.com/SerialHobbyAbandoner/CandleScentApp/blob/main/naughtyButNice.png",
         "id":6,
         "description":"A blend of sugar dipped berries, whipped cream, pink cotton candy and sexy noir.",
         "name":"Naughty But Nice"
