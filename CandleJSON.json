@@ -6,12 +6,12 @@
         "name":"Cinnamon Dip",
         "small": 
             {
-                "price": "19.99"
+                "price": "19.99",
                 "size": "6 oz"
             },
         "large": 
             {
-                "price": "29.99"
+                "price": "29.99",
                 "size": "10 oz"
             }
     },{
@@ -21,12 +21,12 @@
         "name":"Birthday Cake",
         "small": 
             {
-                "price": "19.99"
+                "price": "19.99",
                 "size": "6 oz"
             },
         "large": 
             {
-                "price": "29.99"
+                "price": "29.99",
                 "size": "10 oz"
             }
         
@@ -37,12 +37,12 @@
         "name":"Snow Fairy",
         "small": 
             {
-                "price": "19.99"
+                "price": "19.99",
                 "size": "6 oz"
             },
         "large": 
             {
-                "price": "29.99"
+                "price": "29.99",
                 "size": "10 oz"
             }
     },{
