@@ -1,71 +1,71 @@
 {"request":[
     {
-        "imageURL":".cinnamonDip",
+        "imageURL":"cinnamonDip",
         "id":1,
         "description":"The strong aroma of Cinnamon is complemented by top notes of Lemon, Bergamot, and Orange. Middle notes of Ripe Cranberry and Anise, with bottom notes of Cool Mint & Fresh Balsam finish off this potent blend.",
         "name":"Cinnamon Dip"
     },{
-        "imageURL":".birthdayCake",
+        "imageURL":"birthdayCake",
         "id":2,
         "description":"Celebrate with this blend of rich, creamy vanilla and a scrumptious cake accord.",
         "name":"Birthday Cake"
     },{
-        "imageURL":".snowFairy",
+        "imageURL":"snowFairy",
         "id":3,
         "description":"This Lush dupe has a sweet delightful blend of banana cream pie, lemon zest and peach nectar.",
         "name":"Snow Fairy"
     },{
-        "imageURL":".logos",
+        "imageURL":"logos",
         "id":4,
         "description":"Whisk yourself away to an exotic island while inhaling the fresh aroma of citrus fruits interlaced with a floral bouquet of aromatic spices, fresh cut flowers and crisp green notes. Rich, warm and tangy spices harmonize with delightfully fruity and nutty coconut scents. Creamy vanilla interknits with warm musk to enhance this fragrance.",
         "name":"Pink Sands"
     },{
-        "imageURL":".logos",
+        "imageURL":"logos",
         "id":5,
         "description":"Fresh squeezed oranges spiced with clove.",
         "name":"Orange Clove"
     },{
-        "imageURL":".naughtyButNice",
+        "imageURL":"naughtyButNice",
         "id":6,
         "description":"A blend of sugar dipped berries, whipped cream, pink cotton candy and sexy noir.",
         "name":"Naughty But Nice"
     },{
-        "imageURL":".logos",
+        "imageURL":"logos",
         "id":7,
         "description":"A frisky blend of apple, pear, melon, vanilla ano musk.",
         "name":"Butt Naked in Bed"
     },{
-        "imageURL":".logos",
+        "imageURL":"logos",
         "id":8,
         "description":"I'm getting soooo hungry building this app...",
         "name":"Fried Cheese Ravioli"
     },{
-        "imageURL":".logos",
+        "imageURL":"logos",
         "id":9,
         "description":"Scrumptious tots with a side of ranch.",
         "name":"Jumbo Tater Tots"
     },{
-        "imageURL":".logos",
+        "imageURL":"logos",
         "id":10,
         "description":"It's a spiiiiicy meat-a-ball!",
         "name":"Meatballs"
     },{
-        "imageURL":".logos",
+        "imageURL":"logos",
         "id":11,
         "description":"The best appetizer there is.\nDon't @ me.",
         "name":"Mozzarella Sticks"
     },{
-        "imageURL":".logos",
+        "imageURL":"logos",
         "id":12,
         "description":"These look incredible. That's it. That's the description.",
         "name":"Philly Cheesesteak Sliders"
     },{
-        "imageURL":".logos",
+        "imageURL":"logos",
         "id":13,
         "description":"How did these even make the menu???",
         "name":"Rainbow Spring Rolls"
     },{
-        "imageURL":".logos",
+        "imageURL":"logos",
         "id":14,
         "description":"I'm getting hungrier just looking at these.",
         "name":"Stuffed Shells"
